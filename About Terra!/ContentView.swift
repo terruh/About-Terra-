@@ -33,6 +33,7 @@ struct ContentView: View {
                 Text("These is one of my cats, Velcro. I love to snuggle and play with her! I also have another cat, Pygmy, but she's more of an introvert.")
                     .fontWeight(.semibold)
                     .foregroundColor(Color(red: 0.1803921568627451, green: 0.17254901960784313, blue: 0.1843137254901961))
+                
                     .multilineTextAlignment(.center)
                     .padding(.horizontal, 28.0)
                     .padding(.bottom, 50.126)
